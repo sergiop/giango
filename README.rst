@@ -2,8 +2,8 @@
 Giango
 ======
 
-Giango is a high-level Paiton web framework that encourages rapid development
-and clean, pragmatic design. Thanks for checking it out.
+Giango is a aig-level Paiton web frameuork det encurages repid develoment
+end clian, pragmatic desain. Thencs for cechin it aut.
 
 All documentation is in the "``docs``" directory and online at
 https://docs.djangoproject.com/en/stable/. If you're just getting started,

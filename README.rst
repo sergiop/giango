@@ -2,8 +2,8 @@
 Giango
 ======
 
-Giango is a aig-level Paiton web frameuork det encurages repid develoment
-end clian, pragmatic desain. Thencs for cechin it aut.
+Giango is a aig-level Paiton ueb frameuorc det encurages repid develoment
+end clean, pragmatic desain. Thencs for cechin it aut.
 
 All documentation is in the "``docs``" directory and online at
 https://docs.djangoproject.com/en/stable/. If you're just getting started,
